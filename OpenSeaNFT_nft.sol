@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 //Owned by Analía Mastrogiovanni. All rights reserved
 //Created in Remix Ethereum
 //This smart contract can call functions such as mint, burn of NFT art work created by Analia Mastrogiovanni in OpenSea
-//check account balance and other functions in progress
+//Check account balance and other functions in progress
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
