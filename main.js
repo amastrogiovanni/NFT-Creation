@@ -1,4 +1,5 @@
 //Owned by Analia Mastrogiovanni. All rights reserved
+//Created in VS Code version 1.67.0
 //NFT creation, call smart contract and some simple functions
 Moralis.initialize("eOANC9Ku7sLaPgrpLaK2UIZnjI6vkDomXeNEYowp");
 Moralis.serverURL = "https://vylszl6jnq4x.usemoralis.com:2053/server";
